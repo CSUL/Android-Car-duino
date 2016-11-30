@@ -53,7 +53,7 @@ local.properties
 *.lai
 *.la
 *.a
-*.lib
+
 
 #### Executables ###
 *.exe
@@ -134,3 +134,5 @@ ipch/
 !**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
+
+
