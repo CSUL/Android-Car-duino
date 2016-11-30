@@ -25,7 +25,6 @@ local.properties
 #Build stuff
 /app/src/main/jni/Android.mk
 /app/src/main/obj
-/app/src/main/libs
 
 # Built application files
 *.apk
